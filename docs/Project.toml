@@ -1,0 +1,3 @@
+[deps]
+DecisionMaking = "ea520701-58b4-473d-b7d1-b2cc9f66d72c"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
